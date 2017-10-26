@@ -1,0 +1,3 @@
+[run]
+source = start_pyramid_cookiecutter_app
+omit = start_pyramid_cookiecutter_app/test*
